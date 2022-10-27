@@ -3,25 +3,25 @@
         "name": "My Journal",
         "live": "https://myjournal-project.herokuapp.com/",
         "git": "https://github.com/kellynelson13/my-journal",
-        "image": "https://imgur.com/NjzlxEZ"
+        "image": "https://imgur.com/NjzlxEZ.png"
     },
     {
         "name": "CinemOpinion",
         "live": "https://cinem-opinion.herokuapp.com/",
         "git": "https://github.com/kellynelson13/CinemOpinion",
-        "image": "https://imgur.com/hI8itaE"
+        "image": "https://imgur.com/hI8itaE.png"
     },
     {
         "name": "DTox",
         "live": "https://dtoxnow.netlify.app/",
         "git": "https://github.com/kellynelson13/DTox-Frontend",
-        "image": "https://imgur.com/T16ZWrY"
+        "image": "https://imgur.com/T16ZWrY.png"
     },
     {
         "name": "Tipsy-Turvey",
         "live": "https://kellynelson13.github.io/Tipsy-Turvey-Cocktail-App/",
         "git": "https://github.com/kellynelson13/Tipsy-Turvey-Cocktail-App",
-        "image": "https://imgur.com/WLWNO6B"
+        "image": "https://imgur.com/WLWNO6B.png"
     }
 
 ]
