@@ -1,0 +1,15 @@
+[
+    {
+        "name": "My Journal",
+        "live": "https://myjournal-project.herokuapp.com/",
+        "git": "https://github.com/kellynelson13/my-journal",
+        "image": "https://imgur.com/NjzlxEZ"
+    },
+    {
+        "name": "CinemOpinion",
+        "live": "https://cinem-opinion.herokuapp.com/",
+        "git": "https://github.com/kellynelson13/CinemOpinion",
+        "image": "https://imgur.com/hI8itaE"
+    },
+    
+]
