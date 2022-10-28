@@ -31,7 +31,7 @@
         "git": "https://github.com/kellynelson13/Tipsy-Turvey-Cocktail-App",
         "image": "https://imgur.com/hMfUnUW.png",
         "skills": ["JavaScript", "HTML", "CSS"],
-        "description": "A simple web application that allows you to click a button to get a picture and recipe of a random cocktail."
+        "description": "A simple web app that allows you to click a button to get a picture and recipe of a random cocktail."
         
     }
 
