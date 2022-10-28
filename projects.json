@@ -3,7 +3,7 @@
         "name": "My Journal",
         "live": "https://myjournal-project.herokuapp.com/",
         "git": "https://github.com/kellynelson13/my-journal",
-        "image": "https://imgur.com/NjzlxEZ.png",
+        "image": "https://imgur.com/X6R3sYz.png",
         "skills": ["Python", "Django", "Materialize"],
         "description": "My Journal is a safe space for users to keep track of their thoughts, feelings, experiences, and moods."
         
@@ -12,7 +12,7 @@
         "name": "CinemOpinion",
         "live": "https://cinem-opinion.herokuapp.com/",
         "git": "https://github.com/kellynelson13/CinemOpinion",
-        "image": "https://imgur.com/hI8itaE.png",
+        "image": "https://imgur.com/D9QW6gm.png",
         "skills": ["Express.js", "MongoDB", "Node.js"],
         "description": "A web app for movie lovers! Here, you can read Movie and TV show reviews as well as write your own."
     },
@@ -20,7 +20,7 @@
         "name": "DTox",
         "live": "https://dtoxnow.netlify.app/",
         "git": "https://github.com/kellynelson13/DTox-Frontend",
-        "image": "https://imgur.com/T16ZWrY.png",
+        "image": "https://imgur.com/MrSwzss.png",
         "skills": ["React", "Express.js", "CSS"],
         "description": "A web app to help inform users about what toxic chemicals may be in their everyday lives."
         
@@ -29,7 +29,7 @@
         "name": "Tipsy-Turvey",
         "live": "https://kellynelson13.github.io/Tipsy-Turvey-Cocktail-App/",
         "git": "https://github.com/kellynelson13/Tipsy-Turvey-Cocktail-App",
-        "image": "https://imgur.com/WLWNO6B.png",
+        "image": "https://imgur.com/hMfUnUW.png",
         "skills": ["JavaScript", "HTML", "CSS"],
         "description": "A simple web application that allows you to click a button to get a picture and recipe of a random cocktail."
         
