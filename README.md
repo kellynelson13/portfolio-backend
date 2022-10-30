@@ -5,4 +5,4 @@ This is the simple backend server to Kelly Nelson's portfolio frontend.  Here we
 - JavaScript
 - CORS
 # Getting Started
-Click [here]() to see the live portfolio.
+Click [here](https://dancing-pithivier-9d85df.netlify.app/) to see the live portfolio.
